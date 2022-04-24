@@ -1,6 +1,6 @@
 # CALCULADORA IMC
 
-Aplicação console para cálculo da área e do perimetro do quadrado e do retângulo.
+Aplicação console para cálculo da área e do perimetro do *quadrado* e do *retângulo*.
 
 ## Funcionalidades
 
