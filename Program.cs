@@ -24,9 +24,3 @@ Console.WriteLine("Altura: {0}", r2.Altura);
 Console.WriteLine("Base: {0}", r2.Base);
 Console.WriteLine("Área: {0}", r2.Area);
 Console.WriteLine("Perimetro: {0}", r2.Perimetro);
-
-
-
-
- 
-
