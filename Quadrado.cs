@@ -4,5 +4,4 @@ public class Quadrado
     public double Area { get => Lado * Lado; }
     public double Perimetro { get => Lado * 4; }
     public Quadrado(double lado) => Lado = lado;
-   
 }
